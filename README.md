@@ -7,16 +7,13 @@
 </div>
 
 <div align="center">
-    <a href="#" target="_blank">
-        🛠️ Stack
-    </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="#-getting-started">
         🚀 Getting Started
     </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="#-contributing">
-        ### 🤝 Contributing
+        🤝 Contributing
     </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="#-license">
