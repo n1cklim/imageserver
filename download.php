@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Servidor de Descargas</title>
+	<title>Download Server</title>
 </head>
 <body>
     
@@ -15,7 +15,7 @@ if(!empty($_GET['file']))
 	$filepath = 'download/' . $filename;
 	if(!empty($filename) && file_exists($filepath)){
 
-//Define Headers
+
 		header("Cache-Control: public");
 		header("Content-Description: File Download");
 		header("Content-Disposition: attachment; /$filename");

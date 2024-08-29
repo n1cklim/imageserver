@@ -1,7 +1,7 @@
 <?php
-$secret_key = "554556423939"; //Set this as your secret key, to prevent others uploading to your server.
-$sharexdir = "images/"; //This is your file dir, also the link..
-$domain_url = 'https://files.dynosaurio.ml/'; //Add an S at the end of HTTP if you have a SSL certificate.
+$secret_key = "password"; //Password to upload files to the server
+$sharexdir = "images/"; // Images Directory
+$domain_url = 'url.com'; //Remember to add an S at the end of HTTP if you have a SSL certificate.
 $lengthofstring = 5; //Length of the file name
 
 function RandomString($length) {
