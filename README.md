@@ -1,4 +1,8 @@
 <div align="center">
+<a href="README_es.md">[VERSIÓN EN ESPAÑOL]</a>
+</div>
+
+<div align="center">
 <img src="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/framed-picture.png" height="50px" width="auto" /> 
 <h3>
  Image Server 🖼️
@@ -12,12 +16,12 @@
         🚀 Getting Started
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-contributing">
-        🤝 Contributing
+    <a href="#-sharex-configuration">
+        ⚙️ ShareX Configuration
     </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="#-license">
-        License
+        📜 License
 </div>
 
 
@@ -112,12 +116,12 @@ sudo systemctl reload nginx
 
 ## ⚙️ ShareX Configuration
 
+1. Change the Destination in `Destinations`> `Image Uploader`> Select `Custom Image uploader`
+2. Go to `Destinations` > `Custom uploader settings` and create a New Uploader.
 
+![alt text](screenshot.png)
 
-
-
-
-
+3. Fill up With a POST request and the url/up.php and add the password on headers section, as it appears on the screenshot
 
 
 ### 🤝 Contributing
@@ -126,5 +130,6 @@ sudo systemctl reload nginx
   <img src="https://contrib.rocks/image?repo=n1cklim/imageserver" />
 </a>
 
+### 📜 License
 
 
