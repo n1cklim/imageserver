@@ -16,7 +16,7 @@
         🚀 Getting Started
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-sharex-configuration">
+    <a href="#-shareX-configuration">
         ⚙️ ShareX Configuration
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -24,7 +24,7 @@
         📜 License
 </div>
 
-<div align="center">![GitHub Created At](https://img.shields.io/github/created-at/n1cklim/imageserver)</div>
+<div align="center"><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/n1cklim/imageserver"></div>
 
 ## 🚀 Getting Started
 
